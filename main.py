@@ -1,0 +1,1 @@
+print("====BridgeAid==== \n1. Add User Profile \n2. View Profiles \n3. Search Profile \n4. Update Profile \n5. Delete Profile \n6. Add Resource \n7. View Resources \n8. Search Resource \n9. Match a Profile \n10. View Recommendation Report \n11. Dashboard \n0. Exit")
